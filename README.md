@@ -1,1 +1,4 @@
-# Data-Modeling-and-Remote-Control-for-Networks-and-Security
+Ideas:
+
+Run install docker and run ONOS in one script
+
